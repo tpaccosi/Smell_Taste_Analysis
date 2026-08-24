@@ -1,0 +1,16 @@
+Annotation Guidelines
+
+POSITIVE
+Words expressing approval, desirability, or aesthetic/sensory pleasure. Include subjective judgments of approval (pleasant, exquisite, good).
+
+NEGATIVE
+Words expressing disapproval, unpleasantness, or sensory discomfort. Include undesirable qualities (worst, offensive, nasty)
+
+SOURCE_BASED
+Words that reference concrete, specific substances or objects as flavor/sensation sources.
+
+QUANTITY/INTENSITY
+Words indicating degree, scope, or deviation from norm, e.g., comparative/superlative terms, or precision markers.
+
+NEUTRAL
+Words that describe without clear positive/negative judgment or context-dependent meaning.
